@@ -2,7 +2,9 @@
 This project is a main focus of the UCSD Men's Soccer Analytics Team and has real impact on game-time decisions made by coaches.
 
 ## Introduction
-This project aims to analyze how opponent's create their goal scoring chances 
+This project aims to analyze how opponent's create their goal scoring chances.
+
+Collected the data manually using a custom built stat tracking software. Tracked every action related to a goal scoring chance by watching film. Wrote algorithms to transform data and analyze for visualization. Wrote reports for coaches to adjust training/game plans.
 
 ## Details
 We can start by looking at the spatial distribution of where opponent's get shots. These chances are most likely to produce goals. 
